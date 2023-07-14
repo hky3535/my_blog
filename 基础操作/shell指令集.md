@@ -115,6 +115,11 @@ echo $now
 #!/bin/bash
 ls -1 | wc -l
 ```
+* 获取当前本机的ip信息
+```bash
+#!/bin/bash
+curl ipinfo.io
+```
 
 ## 系统操作
 * 清空某个log文件的内容但是不干扰正在写入这个log文件的进程（实际测试下来有一定概率会干扰后续正常写入）
