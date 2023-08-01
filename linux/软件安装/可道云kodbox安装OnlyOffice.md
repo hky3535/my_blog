@@ -1,4 +1,4 @@
-# 可道云安装OnlyOffice
+# 可道云kodbox安装OnlyOffice
 
 ## 首先明确
 * OnlyOffice是一种在后端的php服务，他仅提供office类文件的解析和在Web页面上的渲染，以及文件的在线编辑功能，OnlyOffice本体是没有可视化界面去操作的，他只是一个服务，一种内核。
